@@ -1,0 +1,15 @@
+.title-panel-layout {
+  display: block;
+  margin: 0 auto;
+  /*max-width: 1024px;*/
+  padding: 0 var(--lumo-space-l);
+}
+
+.title-panel-layout .button-layout {
+  margin-top: var(--lumo-space-m);
+  margin-bottom: var(--lumo-space-l);
+}
+.title-panel-layout h3 {
+  margin-top: var(--lumo-space-l);
+  margin-bottom: var(--lumo-space-s);
+}

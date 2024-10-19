@@ -1,0 +1,31 @@
+.person-form-view {
+  display: block;
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 var(--lumo-space-l);
+}
+.person-form-view .button-layout {
+  margin-top: var(--lumo-space-m);
+  margin-bottom: var(--lumo-space-l);
+}
+.person-form-view h3 {
+  /*margin-top: var(--lumo-space-s);*/
+  /*margin-bottom: var(--lumo-space-l);*/
+  padding: 0;
+  margin: 0;
+}
+
+
+.title-panel-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: var(--lumo-space-l);
+  margin-bottom: 0;
+}
+
+.title-panel-layout h3 {
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
